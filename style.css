@@ -1,0 +1,39 @@
+body  { 
+    color: white ;
+    background: green;
+    margin: 5px;
+    font-family: sans-serif;
+    margin-bottom: 80px;
+}
+
+    header {
+    border-bottom: solid 2px rgb(54, 178, 46);
+    padding: 30px;
+    font-size: 40px;
+    color: rgb(255, 255, 255)
+}
+
+.chamada {
+    background: rgb(14, 191, 26);
+    padding-bottom: 45px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+ margin-right: 5%;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+}
+
+img {
+    height: 175px;
+}
+
